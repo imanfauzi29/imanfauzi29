@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @imanfauzi29
-- 👀 I’m interested in Javascript, ReactJS, VueJS
-- 🌱 I’m currently learning ReactJS
-- 📫 How to reach me imanfauzi29@gmail.com
+## 👋 Hi, I'm Iman Fauzi!  
 
-<!---
-imanfauzi29/imanfauzi29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Frontend Developer | Tester | Product Designer  
+💡 Passionate about building fast, accessible, and user-friendly web applications.  
+🔍 Exploring testing, UI/UX design, and product development.  
+
+### 🛠 Tech Stack  
+- **Frontend:** React.js, Next.js, Vue.js, TypeScript, TailwindCSS, SWR  
+- **Testing:** Playwright, Jest, Cypress  
+- **Design:** Figma, Framer  
+
+📫 Reach me at: [contact@ifauzi.space](mailto:contact@ifauzi.space)  
