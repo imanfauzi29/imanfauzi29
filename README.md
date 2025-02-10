@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Iman Fauzi!  
 
-🚀 Frontend Developer | Tester | Product Designer  
+🚀 Frontend Developer
 💡 Passionate about building fast, accessible, and user-friendly web applications.  
 🔍 Exploring testing, UI/UX design, and product development.  
 
