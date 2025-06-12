@@ -23,12 +23,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-![Iman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imanfauzi29&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imanfauzi29&layout=compact&theme=radical)  
-
----
-
 ### 📈 GitHub Activity Graph  
 ![Iman's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imanfauzi29&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true)  
 
